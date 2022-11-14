@@ -1,0 +1,34 @@
+*{
+    padding: 10px;
+    margin: auto;
+    border: 50px;
+}
+
+body {
+    background-color: white;
+}
+.First_section h1 {
+    font-size: 18px;
+}
+
+.p {
+    
+    font-size: 14px;
+    color: green;
+}
+.Second_section h1 {
+    font-size: 18px;
+}
+.What_was_learnt p {
+    font-size: 14px;
+    color: red;
+}
+
+.Third_section h1 {
+    font-size: 18px;
+}
+
+.differences p {
+    font-size: 14px;
+    color: blue;
+}
